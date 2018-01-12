@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 	int main(){
-		cout << "CP";
+		cout << "CPE2";
 		return 0;
 		
 	}
